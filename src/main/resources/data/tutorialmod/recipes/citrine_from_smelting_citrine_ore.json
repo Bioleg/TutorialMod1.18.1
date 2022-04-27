@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "tutorialmod:citrine",
+  "ingredient": {
+    "item": "tutorialmod:raw_citrine"
+  },
+  "result": "tutorialmod:citrine",
+  "experience": 0.9,
+  "cookingtime": 200
+}

@@ -1,0 +1,14 @@
+{
+  "item.tutorialmod.citrine": "Citrine",
+  "item.tutorialmod.raw_citrine": "Raw Citrine",
+  "item.tutorialmod.dowsing_rod": "Dowsing Rod",
+
+  "block.tutorialmod.citrine_block": "Citrine Block",
+  "block.tutorialmod.raw_citrine_block": "Raw Citrine Block",
+  "block.tutorialmod.citrine_ore": "Citrine Ore",
+  "block.tutorialmod.deepslate_citrine_ore": "Deepslate Citrine Ore",
+
+  "itemGroup.tutorialtab": "Tutorial Tab",
+
+  "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables Found"
+}
