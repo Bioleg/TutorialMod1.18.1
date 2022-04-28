@@ -2,15 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "###",
-    "###",
+    "#W#",
     "###"
   ],
   "key": {
     "#": {
-      "tag": "forge:gems/citrine"
+      "item": "minecraft:stick"
+    }
+    "W": {
+      "item": "tutorialmod:citrine"
     }
   },
   "result": {
-    "item": "tutorialmod:citrine_block"
+    "item": "tutorialmod:dowsing_rod"
   }
 }
