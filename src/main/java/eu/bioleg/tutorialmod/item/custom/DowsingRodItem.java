@@ -1,6 +1,5 @@
 package eu.bioleg.tutorialmod.item.custom;
 
-import eu.bioleg.tutorialmod.block.ModBlocks;
 import eu.bioleg.tutorialmod.util.ModTags;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.core.BlockPos;

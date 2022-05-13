@@ -1,7 +1,6 @@
 package eu.bioleg.tutorialmod.item;
 
 import com.google.common.collect.ImmutableMap;
-import eu.bioleg.tutorialmod.item.ModArmorMaterials;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EquipmentSlot;
