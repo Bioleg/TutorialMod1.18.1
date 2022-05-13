@@ -10,12 +10,18 @@
   "item.tutorialmod.citrine_shovel": "Citrine Shovel",
   "item.tutorialmod.citrine_hoe": "Citrine Hoe",
   "item.tutorialmod.citrine_sword": "Citrine Sword",
+  "item.tutorialmod.citrine_helmet": "Citrine Helmet",
+  "item.tutorialmod.citrine_chestplate": "Citrine Chestplate",
+  "item.tutorialmod.citrine_leggings": "Citrine Leggings",
+  "item.tutorialmod.citrine_boots": "Citrine Boots",
 
   "block.tutorialmod.citrine_block": "Citrine Block",
   "block.tutorialmod.raw_citrine_block": "Raw Citrine Block",
   "block.tutorialmod.citrine_ore": "Citrine Ore",
   "block.tutorialmod.deepslate_citrine_ore": "Deepslate Citrine Ore",
   "block.tutorialmod.speedy_block": "Speedy Block",
+  "block.tutorialmod.pink_rose": "Pink Rose",
+  "block.tutorialmod.potted_pink_rose": "Potted Pink Rose",
 
   "block.tutorialmod.citrine_slab": "Citrine Slab",
   "block.tutorialmod.citrine_stairs": "Citrine Stairs",
@@ -28,6 +34,8 @@
   "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables Found",
   "tooltip.tutorialmod.dowsing_rod.tooltip.shift": "Right click and be on a some kind of x-ray",
   "tooltip.tutorialmod.dowsing_rod.tooltip": "Press §eSHIFT§r for more information",
+  "tooltip.tutorialmod.levitationsword.tooltip": "Press §eSHIFT§r for more information",
+  "tooltip.tutorialmod.levitationsword.tooltip.shift": "After hitting an enemy it will make it flyyyyy",
   "tooltip.tutorialmod.block.speedy_block": "Stand on it and know it by yourself!"
 
 }

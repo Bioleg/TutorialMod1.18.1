@@ -6,6 +6,8 @@ import eu.bioleg.tutorialmod.item.ModCreativeModTab;
 import eu.bioleg.tutorialmod.item.ModItems;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.TranslatableComponent;
+import net.minecraft.world.effect.MobEffect;
+import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.item.*;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.*;
@@ -44,6 +46,8 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> CITRINE_WALL = registryBlock("citrine_wall", () -> new WallBlock(BlockBehaviour.Properties.of(Material.METAL).strength(7f).requiresCorrectToolForDrops()), ModCreativeModTab.TUTORIAL_TAB);
 
+
+
     private static <T extends Block> RegistryObject<T> registryBlock(String name, Supplier<T> block, CreativeModeTab tab, String tooltipKey) {
 
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
@@ -74,6 +78,7 @@ public class ModBlocks {
         return toReturn;
 
     }
+
 
     private static <T extends Block> RegistryObject<Item> registerBlockItem(String name, RegistryObject<T> block, CreativeModeTab tab) {
 
